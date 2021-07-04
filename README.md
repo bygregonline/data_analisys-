@@ -20,3 +20,11 @@
 ![alt text](https://raw.githubusercontent.com/bygregonline/data_analisys-/main/images/sample6.png)
 --
 ![alt text](https://raw.githubusercontent.com/bygregonline/data_analisys-/main/images/sample9.png)
+
+** Other corrlated samples **v
+--
+![alt text](https://raw.githubusercontent.com/bygregonline/data_analisys-/main/images/sample-e1.png)
+--
+![alt text](https://raw.githubusercontent.com/bygregonline/data_analisys-/main/images/sample-e2.png)
+--
+![alt text](https://raw.githubusercontent.com/bygregonline/data_analisys-/main/images/sample-e3.png)
